@@ -1,0 +1,7 @@
+{
+  "name": "ionic-angular-tour-of-heroes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
